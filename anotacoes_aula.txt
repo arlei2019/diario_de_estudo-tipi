@@ -1,1 +1,4 @@
 "Anota‡äes da Aula 1 - introdu‡Æo ao GIT" 
+"" 
+"Anotacoes de Aula 2 - comandos b s icos de Git" 
+"Exercicio 1: Fazer um programa com estrutura de repeti‡Æo" 
